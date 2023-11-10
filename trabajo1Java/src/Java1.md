@@ -1,6 +1,6 @@
 # Fundamentos de JAVA
 
-## Entrega de ejercicios solicoitados 
+## Entrega de ejercicios solicitados 
 
 ### 1. Calcular el área de un triángulo.
 ### 2. Ingresar dos números por la consola y sumarlos.
@@ -8,3 +8,6 @@
 ### 4. Escribir un programa que convierta de euros a dólares.
 ### 5. Escribir un programa que pida el lado de un cuadrado y calcule el valor del área y del perímetro.
 ### 6. Escribir un programa que determine el área y el volúmen de un cilindro.
+### 7. Escribir un programa que lea el radio de una circunferencia y calcule la longitud de la misma y el área del 
+   círculo inscrito.
+### 8. Calcular el promedio de tres (3) números ingresados por teclado.
